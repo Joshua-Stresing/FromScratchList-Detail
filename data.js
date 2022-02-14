@@ -38,4 +38,5 @@ export const consoles = [
         desc: 'This competed with the PS1 for the most part and was overall loved despite losing out in the end.',
         top: '200px',
         left: '50%',
-    }}
+    }
+];
